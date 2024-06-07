@@ -12,9 +12,7 @@ setup(name="robot-detection",
       url="https://github.com/rory/robot-detection",
       license="GPLv3+",
       test_suite='tests',
-      install_requires = [
-          "six",
-      ],
+      install_requires = [],
       classifiers=[
             'Development Status :: 4 - Beta',
             'Environment :: Web Environment',
